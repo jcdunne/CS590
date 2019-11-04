@@ -1,0 +1,17 @@
+CSS 590 - Programming and Data Science for Applied Research
+
+Week 8 - Tableau Session
+
+Helpful Links for Tableau Figure Development
+
+Tableau Training Videos (good way to get started):  https://www.tableau.com/learn/training
+Viz of the Day: https://public.tableau.com/en-us/gallery/?tab=viz-of-the-day&type=viz-of-the-day
+Makover Monday:  https://www.makeovermonday.co.uk/
+Add Color Brewer (http://colorbrewer2.org) palettes to Tableau: http://colorbrewer2.org/#type=sequential&scheme=BuGn&n=3
+Level of Detail Calculations:  https://help.tableau.com/current/pro/desktop/en-us/calculations_calculatedfields_lod_overview.htm
+Small Multiple example:  http://www.vizwiz.com/2016/03/tableau-tip-tuesday-how-to-create-small.html
+Tableau Reader (can send dashboard to somebody without Tableau): https://www.tableau.com/products/reader    
+Hiding unwanted parts of map: 
+https://community.tableau.com/thread/151597 
+https://community.tableau.com/thread/155541 
+Donut Charts:  https://kb.tableau.com/articles/issue/creating-donut-charts
