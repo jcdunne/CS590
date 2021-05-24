@@ -18,3 +18,4 @@ dependencies:
   - cufflinks-py
   - pip
   - six
+  - pydot
