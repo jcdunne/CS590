@@ -15,6 +15,7 @@ dependencies:
   - ipython
   - xlrd
   - lxml
+  - cufflinks-py
   - pip
     - cufflinks
     - six
