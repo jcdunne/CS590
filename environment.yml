@@ -5,3 +5,16 @@ dependencies:
   - numpy
   - matplotlib
   - pandas
+  - seaborn
+  - plotly
+  - sklearn
+  - cufflinks
+  - random
+  - scipy
+  - os
+  - sqlalchemy
+  - requests
+  - bs4
+  - IPython
+  - functools
+  - re
