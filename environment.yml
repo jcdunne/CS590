@@ -7,7 +7,7 @@ dependencies:
   - pandas
   - seaborn
   - plotly
-  - sklearn
+  - scikit-learn
   - cufflinks
   - random
   - scipy
@@ -15,6 +15,5 @@ dependencies:
   - sqlalchemy
   - requests
   - bs4
-  - IPython
-  - functools
-  - re
+  - ipython
+  - pip
