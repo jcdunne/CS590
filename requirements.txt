@@ -11,7 +11,7 @@ bs4
 ipython
 xlrd
 lxml
-python-cufflinks
+cufflinks
 pip
 six
 pydot
