@@ -2,6 +2,8 @@ Click "launch binder" to render Docker image and build Binder session in R - May
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jcdunne/CS590/R)
 
+https://mybinder.org/v2/gh/jcdunne/CS590/tree/master/R
+
 Once the Binder session is built, click on any week and notes with the .ipynb extension (IPYNB File extension) and launch the Jupyter Notebook with the notes from the week's lecture. The cells of the Jupyter Notebook script can be run using the play (run) button or using Ctrl+Enter [Runs cell and remains in current cell] or Shift+Enter [Runs cell and moves to next cell].
 
 # Downloads
